@@ -25,17 +25,6 @@
         <img src="https://img.shields.io/badge/-notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
     </p>
 </div>
-
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
-    
-<br> 
-    
-<div style="text-align: left;"> 
-    <a href=mailto:mjktt8@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mjktt8@gmail.com">
-    </a>
-</div>  
-
 <br> 
 </div>
     
