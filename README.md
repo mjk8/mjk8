@@ -15,8 +15,15 @@
 <br> 
 
 <div style="margin: ; text-align: left;" "text-align: left;">
-    <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/-C%23-20232a.svg?style=for-the-badge&logo=-C%23&logoColor=FFFFFF" />
+    <p>
+        <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
+        <img src="https://img.shields.io/badge/-C%23-20232a.svg?style=for-the-badge&logo=-C%23&logoColor=FFFFFF"/>
+        <img src="https://img.shields.io/badge/-C++-20232a.svg?style=for-the-badge&logo=C++&logoColor=FFFFFF"/>
+    </p>
+    <p>
+        <img src="https://img.shields.io/badge/-github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+        <img src="https://img.shields.io/badge/-notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
+    </p>
 </div>
 
 <div style="text-align: left;">
